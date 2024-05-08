@@ -1,0 +1,6 @@
+Download all the libraries 
+sklearn
+numpy
+pandas
+1.) make sure the csv file has the same directory 
+2.)change the attributes if using different csv file
